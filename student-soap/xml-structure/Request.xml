@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:book="http://www.jeovine.org/book">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <book:getStudentRequest>
+         <student:id>3</student:id>
+      </student:getStudentRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+ 

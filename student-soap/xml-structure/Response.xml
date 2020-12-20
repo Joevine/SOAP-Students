@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header/>
+   <SOAP-ENV:Body>
+      <ns2:getStudentResponse xmlns:ns2="http://www.jeovine.org/student">
+         <ns2:Student>
+            <ns2:id>3</ns2:id>
+            <ns2:name>kennedy</ns2:name>
+            <ns2:admission>400</ns2:admission>
+         </ns2:Student>
+      </ns2:getStudentResponse>
+   </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
